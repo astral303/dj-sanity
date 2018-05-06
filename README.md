@@ -12,4 +12,5 @@ Requires:
 
 * Elasticsearch 5.x
 * `itunes-data` with patch from github.com/astral303/itunes-data
-
+* `jq`
+* `curl`
