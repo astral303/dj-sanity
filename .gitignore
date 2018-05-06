@@ -1,0 +1,11 @@
+target/
+.DS_Store
+doc/
+barnacle/
+attempt-*/
+itunes-data/
+
+*~
+.*.swp
+*.orig
+*.DS_Store
